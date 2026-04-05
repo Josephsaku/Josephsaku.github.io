@@ -1,3 +1,51 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* 全站基准字号：把默认字体整体放大 */
+html {
+  font-size: 15px;
+}
+
+@media (max-width: 600px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+article img {
+	max-width: 80% !important;
+	height: auto !important;
+	display: block;
+	margin: 2rem auto;
+	border-radius: 8px;
+}
+
+
+/* 无论 class 是在 div 上还是直接在 img 上，这段代码都能 Hold 住 */
+.profile-card {
+  float: right !important;
+  width: 180px !important;
+  height: auto !important;
+  margin-left: 2rem !important;
+  margin-bottom: 1.5rem !important;
+  border-radius: 12px !important;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1) !important;
+  object-fit: cover !important;
+  
+  /* 如果有文字描述，让它变精致 */
+  font-size: 0.85rem;
+  text-align: center;
+  color: var(--gray);
+  background: var(--light);
+}
+
+/* 移动端自动回到中间，防止排版挤压 */
+@media (max-width: 600px) {
+  .profile-card {
+    float: none !important;
+    margin: 0 auto 2rem !important;
+    display: block !important;
+    width: 220px !important;
+  }
+}
