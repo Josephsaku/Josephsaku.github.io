@@ -10,7 +10,7 @@ description: Welcome to my Embodied AI Lab
 ## 🌐 Welcome to My Digital Garden
 
 
-<img src="https://lau-ob-pac-1367381190.cos.ap-guangzhou.myqcloud.com/sandox/202604051642456.jpg" width="160" style="float: right; margin-left: 20px;">
+<img src="https://lau-ob-pac-1367381190.cos.ap-guangzhou.myqcloud.com/sandox/202604051937390.jpg" width="160" style="float: right; margin-left: 20px;">
 
 > **"Stay clean, stay focused."**
 
