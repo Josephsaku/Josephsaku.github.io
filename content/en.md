@@ -15,7 +15,7 @@ description: Welcome to my Embodied AI Lab
 > **"Stay clean, stay focused."**
 
 
-I am **Joe**, a Computer Science student at **SZTU**, navigating the intersection of code and robotic arms. This is my digital greenhouse—a space for technical reflections, musical inspirations, and lifestyle aesthetics.
+I am **Joe**, a Computer Science student at **SZTU**, navigating the intersection of code and robotic arms, with the goal of being a full-stack engineer in Robotics. This is my digital greenhouse—a space for technical reflections, musical inspirations, and lifestyle aesthetics.
 
 ---
 
