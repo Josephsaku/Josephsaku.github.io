@@ -13,9 +13,12 @@ description: Welcome to my Embodied AI Lab
 <img src="https://lau-ob-pac-1367381190.cos.ap-guangzhou.myqcloud.com/sandox/202604051937390.jpg" width="160" style="float: right; margin-left: 20px;">
 
 > **"Stay clean, stay focused."**
-
-
-I am **Joe**, a Computer Science student at **SZTU**, navigating the intersection of code and robotic arms, with the goal of being a full-stack engineer in Robotics. This is my digital greenhouse—a space for technical reflections, musical inspirations, and lifestyle aesthetics.
+> 
+> I am **Joe**, a Computer Science student at **SZTU**, navigating the intersection of code and robotic arms, with the goal of being a full-stack engineer in Robotics. This is my digital greenhouse—a space for technical reflections, musical inspirations, and lifestyle aesthetics.
+> 
+> [Github](https://github.com/Josephsaku)
+>[小宇宙Podcast](https://www.xiaoyuzhoufm.com/podcast/67a0531fce224db4d22562ae)
+>[RedNote](https://www.xiaohongshu.com/user/profile/64f1b19a0000000006030339)
 
 ---
 
@@ -60,8 +63,4 @@ Embracing the **"Clean Fit"** and **"City Boy"** philosophies—simple, high
 
 ## 📑 Quick Links
 
-- [[Notes/Research|Embodied AI Research Notes]]
-    
-- [[Notes/Music|Jazz Theory & Guitar Practice]]
-    
-- [[Notes/Dev-Log|Development Logs]]
+- [[机器人全栈工程师之路]]
