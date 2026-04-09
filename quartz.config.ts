@@ -13,7 +13,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: 'goatcounter',
+      websiteId: 'johannes-garden',
     },
     locale: "en-US",
     baseUrl: "josephsaku.github.io",
