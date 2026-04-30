@@ -10,12 +10,15 @@ description: Welcome to my Embodied AI Lab
 ## 🌐 Welcome to My Digital Garden
 
 
-<img src="https://lau-ob-pac-1367381190.cos.ap-guangzhou.myqcloud.com/sandox/202604051642456.jpg" width="160" style="float: right; margin-left: 20px;">
+<img src="https://lau-ob-pac-1367381190.cos.ap-guangzhou.myqcloud.com/sandox/202604051937390.jpg" width="160" style="float: right; margin-left: 20px;">
 
 > **"Stay clean, stay focused."**
-
-
-I am **Joe**, a Computer Science student at **SZTU**, navigating the intersection of code and robotic arms. This is my digital greenhouse—a space for technical reflections, musical inspirations, and lifestyle aesthetics.I am **Joe**, a Computer Science student at **SZTU**, navigating the intersection of code and robotic arms. This is my digital greenhouse—a space for technical reflections, musical inspirations, and lifestyle aesthetics.
+> 
+> I am **Joe**, a Computer Science student at **SZTU**, navigating the intersection of code and robotic arms, with the goal of being a full-stack engineer in Robotics. This is my digital greenhouse—a space for technical reflections, musical inspirations, and lifestyle aesthetics.
+> 
+> [Github](https://github.com/Josephsaku)
+>[小宇宙Podcast](https://www.xiaoyuzhoufm.com/podcast/67a0531fce224db4d22562ae)
+>[RedNote](https://www.xiaohongshu.com/user/profile/64f1b19a0000000006030339)
 
 ---
 
@@ -38,7 +41,7 @@ When I’m not coding, you’ll likely find me with an electric guitar in hand.
 
 - **Genres**: Jazz Fusion, Neo-soul, Jazz.
     
-- **Artists**: Snarky Puppy, Cory Henry, Fujii Kaze (藤井风), Li Shihai (李世海).
+- **Artists**: Snarky Puppy, Lawrence Ku,  Fujii Kaze (藤井风), Li Shihai (李世海).
     
 - **Gear**: Obsessed with exploring the ultimate synergy between intricate chord progressions and rhythmic grooves.
     
@@ -49,19 +52,16 @@ When I’m not coding, you’ll likely find me with an electric guitar in hand.
 
 Embracing the **"Clean Fit"** and **"City Boy"** philosophies—simple, high-quality, and precisely balanced.
 
-- **Sports**: Tennis, Pickleball, Badminton. Occasionally cheering for the **Cleveland Cavaliers** during the NBA playoffs.
-    
+- **Sports**: Tennis, Pickleball, Table Tennis. Occasionally cheering for the **Cleveland Cavaliers** during the NBA playoffs.
+
 - **Coffee**: The coffee machine in the lab is the essential fuel for my high-intensity workflows.
-    
-- **Explore**: Finding the equilibrium between culture and aesthetics across different cities (such as my recent journey through Shandong).
-    
+
+- **Style**: Vintage & City Boy
+
+- **Explore**: Finding the equilibrium between culture and aesthetics across different cities.
 
 ---
 
 ## 📑 Quick Links
 
-- [[Notes/Research|Embodied AI Research Notes]]
-    
-- [[Notes/Music|Jazz Theory & Guitar Practice]]
-    
-- [[Notes/Dev-Log|Development Logs]]
+- [[机器人全栈工程师之路]]
