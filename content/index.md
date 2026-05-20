@@ -22,8 +22,8 @@ description: 欢迎来到我的具身智能研究室
 ## 🤖 Research & Tech
 
 * **Focus**: 灵巧手抓取 (Dexterous Manipulation)、感知算法与触觉感知融合。
-* **Current Stack**: Python, PyTorch, DL,RL,ROS2.
-* **Projects**: 3D感知能力赋能Grasp Task。
+* **Current Stack**: PyTorch, DL,RL,ROS2, CV, Tactile
+* **Projects**: 感知能力赋能Grasp Task。
 
 ---
 
@@ -49,6 +49,8 @@ description: 欢迎来到我的具身智能研究室
 ### Works
 * [[Tactile-sim(poster)]]
 
-### 
+### Thinking & Articles
 
 * [[机器人全栈工程师之路]]
+- [[2025年高教社数学建模竞赛总结复盘]]
+- [[CV-人脸识别论文精读]]

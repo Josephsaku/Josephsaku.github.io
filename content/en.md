@@ -28,9 +28,9 @@ I am currently part of the **Embodied AI** Elite Program and serve as a studen
 
 - **Focus**: Dexterous Manipulation, Perception Algorithms, and Tactile-Sensing Fusion.
     
-- **Current Stack**: Python, PyTorch, Reinforcement Learning, ROS2.
+- **Current Stack**: DL,Reinforcement Learning, ROS2, CV, Tactile
     
-- **Projects**: Currently exploring ways to endow robotic arms with human-like, nuanced tactile sensations.
+- **Projects**: Currently exploring ways to endow robotic arms with human-like, nuanced sensations.
     
 
 ---
@@ -62,5 +62,11 @@ Embracing the **"Clean Fit"** and **"City Boy"** philosophies—simple, high
 
 ## 📑 Quick Links
 
-- [[机器人全栈工程师之路]]
-- [[Tactile-sim(poster)]]
+### Works
+* [[Tactile-sim(poster)]]
+
+### Thinking & Articles
+
+* [[机器人全栈工程师之路]]
+- [[2025年高教社数学建模竞赛总结复盘]]
+- [[CV-人脸识别论文精读]]
