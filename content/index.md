@@ -13,7 +13,7 @@ description: 欢迎来到我的具身智能研究室
 
 > **"Stay clean, stay focused."**
 > 
-> 欢迎来到我的数字花园。我是 **Johannes**，一名专注于具身智能研究的计算机本科生，我正深入探索感知算法与触觉融合在机械臂灵巧操作中的可能性，未来的目标是成为机器人的全栈工程师。
+> 欢迎来到我的数字花园。我是 **Johannes**，一名专注于具身智能研究的计算机专业本科生，我正深入探索感知算法与触觉融合在机械臂灵巧操作中的可能性，未来的目标是成为机器人的全栈工程师。
 > 
 > [Github](https://github.com/Josephsaku)
 > [小宇宙Podcast](https://www.xiaoyuzhoufm.com/podcast/67a0531fce224db4d22562ae)
@@ -28,7 +28,6 @@ description: 欢迎来到我的具身智能研究室
 ---
 
 ## 🎷 Music & Vibes
-如果不敲代码，我大概率手里拿着一把**电吉他**。
 
 * **Genres**: Jazz Fusion, Neo-soul, Jazz.
 * **Artists**: Snarky Puppy, Laurence Ku, Fujii Kaze (藤井风), 李世海.
@@ -39,7 +38,7 @@ description: 欢迎来到我的具身智能研究室
 ## 👔 Lifestyle & Aesthetic
 追求 **"Clean Fit"** 与 **"City Boy"** 的生活哲学——简单、高质量、恰到好处。
 
-* **Sports**: 网球、Pickleball、羽毛球，偶尔在 NBA 季后赛为 **骑士队** 呐喊。
+* **Sports**: 网球、Pickleball、羽毛球，骑士队
 * **Coffee**: 深烘Americano是我的燃料。
 * **Explore**: 喜欢在不同的城市寻找文化与审美的平衡点。
 
@@ -47,3 +46,4 @@ description: 欢迎来到我的具身智能研究室
 
 ## 📑 Quick Links
 * [[机器人全栈工程师之路]]
+* [[Tactile-sim(poster)]]

@@ -37,8 +37,6 @@ I am currently part of the **Embodied AI** Elite Program and serve as a studen
 
 ## 🎷 Music & Vibes
 
-When I’m not coding, you’ll likely find me with an electric guitar in hand.
-
 - **Genres**: Jazz Fusion, Neo-soul, Jazz.
     
 - **Artists**: Snarky Puppy, Lawrence Ku,  Fujii Kaze (藤井风), Li Shihai (李世海).
@@ -52,9 +50,9 @@ When I’m not coding, you’ll likely find me with an electric guitar in hand.
 
 Embracing the **"Clean Fit"** and **"City Boy"** philosophies—simple, high-quality, and precisely balanced.
 
-- **Sports**: Tennis, Pickleball, Table Tennis. Occasionally cheering for the **Cleveland Cavaliers** during the NBA playoffs.
+- **Sports**: Tennis, Pickleball, Table Tennis, **Cleveland Cavaliers** 
 
-- **Coffee**: The coffee machine in the lab is the essential fuel for my high-intensity workflows.
+- **Coffee**: Americano Coffee
 
 - **Style**: Vintage & City Boy
 
@@ -65,3 +63,4 @@ Embracing the **"Clean Fit"** and **"City Boy"** philosophies—simple, high
 ## 📑 Quick Links
 
 - [[机器人全栈工程师之路]]
+- [[Tactile-sim(poster)]]
