@@ -18,7 +18,6 @@ description: Welcome to my Embodied AI Lab
 > 
 > [Github](https://github.com/Josephsaku)
 >[小宇宙Podcast](https://www.xiaoyuzhoufm.com/podcast/67a0531fce224db4d22562ae)
->[RedNote](https://www.xiaohongshu.com/user/profile/64f1b19a0000000006030339)
 
 ---
 

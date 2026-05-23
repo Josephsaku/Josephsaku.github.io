@@ -17,7 +17,6 @@ description: 欢迎来到我的具身智能研究室
 > 
 > [Github](https://github.com/Josephsaku)
 > [小宇宙Podcast](https://www.xiaoyuzhoufm.com/podcast/67a0531fce224db4d22562ae)
->[RedNote](https://www.xiaohongshu.com/user/profile/64f1b19a0000000006030339)
 
 ## 🤖 Research & Tech
 
