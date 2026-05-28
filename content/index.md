@@ -1,5 +1,5 @@
 ---
-title: 主页｜ Johannes
+title: 主页｜ Jonathan
 language: zh
 description: 欢迎来到我的具身智能研究室
 ---
@@ -13,7 +13,7 @@ description: 欢迎来到我的具身智能研究室
 
 > **"Stay clean, stay focused."**
 > 
-> 欢迎来到我的数字花园。我是 **Johannes**，一名专注于具身智能研究的计算机专业本科生，我正深入探索感知算法与触觉融合在机械臂灵巧操作中的可能性，未来的目标是成为机器人的全栈工程师。
+> 欢迎来到我的数字花园。我是 **Jonathan**，一名专注于具身智能研究的计算机专业本科生，我正深入探索感知算法与触觉融合在机械臂灵巧操作中的可能性，未来的目标是成为机器人的全栈工程师。
 > 
 > [Github](https://github.com/Josephsaku)
 > [小宇宙Podcast](https://www.xiaoyuzhoufm.com/podcast/67a0531fce224db4d22562ae)

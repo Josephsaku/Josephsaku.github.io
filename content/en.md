@@ -1,5 +1,5 @@
 ---
-title: Home ｜ Johannes
+title: Home ｜ Jonathan
 language: en
 description: Welcome to my Embodied AI Lab
 ---
@@ -14,7 +14,7 @@ description: Welcome to my Embodied AI Lab
 
 > **"Stay clean, stay focused."**
 > 
-> I am **Joe**, a Computer Science student at **SZTU**, navigating the intersection of code and robotic arms, with the goal of being a full-stack engineer in Robotics. This is my digital greenhouse—a space for technical reflections, musical inspirations, and lifestyle aesthetics.
+> I am **Jonathan**, a Computer Science student at **SZTU**, navigating the intersection of code and robotic arms, with the goal of being a full-stack engineer in Robotics. This is my digital greenhouse—a space for technical reflections, musical inspirations, and lifestyle aesthetics.
 > 
 > [Github](https://github.com/Josephsaku)
 >[小宇宙Podcast](https://www.xiaoyuzhoufm.com/podcast/67a0531fce224db4d22562ae)
